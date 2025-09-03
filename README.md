@@ -2,21 +2,31 @@
 
 Bem-vindo ao meu Perfil!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Atila%20Aguiar-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%C3%A1tila-aguiar-1248571b6/)](https://www.linkedin.com/in/%C3%A1tila-aguiar-1248571b6/)
+[![LinkedIn Learning](https://custom-icon-badges.demolab.com/badge/Atila%20Aguiar-0A66C2?logo=linkedin-white&logoColor=fff)](www.linkedin.com/in/atila-aguiar)
 [![Gmail Badge](https://img.shields.io/badge/-atilasilva007@gmail.com-orange?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@gmail.com)](atilasilva007@gmail.com)
 
+## Ciência da Computação em formação pela [UERJ - Universidade Estadual do Rio de Janeiro](https://www.uerj.br/)
 ## Desenvolvedor Full Stack Jr. Formado na [Recode PRO](https://www.recodepro.org.br/)
 
-**Competencias:**
+**Competências:**
 
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![React](https://img.shields.io/badge/-React-%23F7DF1C?style=flat-square&logo=react&logoColor=ffffff&labelColor=blue&color=blue)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+[![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)](#)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#)
+[![Scikit-learn](https://img.shields.io/badge/-scikit--learn-%23F7931E?logo=scikit-learn&logoColor=white)](#)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-ff8f00?logo=tensorflow&logoColor=white)](#)
+
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)](#)
+
+
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
-![MySql](https://img.shields.io/badge/-MySQL-%23F7DF1C?style=flat-square&logo=MySQL&logoColor=00008b&labelColor=%00008b&color=%00008b)
-![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=Python)
+[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
+
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
+[![Oracle](https://custom-icon-badges.demolab.com/badge/Oracle-F80000?logo=oracle&logoColor=fff)](#)
+[![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](#)
 
 
 <!--
